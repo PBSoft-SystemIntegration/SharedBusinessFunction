@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddiutionClient", "SharedBusinessFunction\AddiutionClient.csproj", "{8202EA36-229A-40C7-BBE9-7CD9500F397A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdditionServer", "AdditionServer\AdditionServer.csproj", "{681404C5-68F1-482A-9A0E-9EA45455BB47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8202EA36-229A-40C7-BBE9-7CD9500F397A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8202EA36-229A-40C7-BBE9-7CD9500F397A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8202EA36-229A-40C7-BBE9-7CD9500F397A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8202EA36-229A-40C7-BBE9-7CD9500F397A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{681404C5-68F1-482A-9A0E-9EA45455BB47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681404C5-68F1-482A-9A0E-9EA45455BB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681404C5-68F1-482A-9A0E-9EA45455BB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681404C5-68F1-482A-9A0E-9EA45455BB47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A6A5BFF-6543-4C0D-B51F-2169B80E6411}
+	EndGlobalSection
+EndGlobal
